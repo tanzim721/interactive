@@ -1,0 +1,17 @@
+{
+    "name": "dell/ass-2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tanzim721",
+            "email": "53827851+tanzim721@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^7.1"
+    }
+}

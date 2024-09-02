@@ -1,0 +1,34 @@
+{
+    "income": [
+        {
+            "amount": 10000,
+            "category": "income",
+            "description": "Tanzimul first salary added to his account."
+        },
+        {
+            "amount": 10000,
+            "category": "income",
+            "description": "Second salary"
+        },
+        {
+            "amount": 20000,
+            "category": "income",
+            "description": "Mollika added his salary on Tanzimul account"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 1000,
+            "category": "Tanzimul expense this money for foods.",
+            "description": "fnfo"
+        }
+    ],
+    "categories": {
+        "income": [
+            "income"
+        ],
+        "expenses": [
+            "Tanzimul expense this money for foods."
+        ]
+    }
+}
